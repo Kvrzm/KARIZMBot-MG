@@ -7,22 +7,22 @@ import fetch from 'node-fetch';
 import axios from 'axios';
 import moment from 'moment-timezone';
 
-global.botnumber = "*『🔥┇𝙼𝙴𝙶𝙾-𝙱𝙾𝚃』*"
+global.botnumber = "*『🔥┇𝚔𝚊𝚛𝚒𝚣𝚖𝚊-𝙱𝙾𝚃』*"
 global.confirmCode = ""
 
-global.owner = [['201012531172', '𝙢,𝙚,𝙜,𝙤, ❦︎', true],
+global.owner = [['201556562949', '𝐊𝐀𝐑𝐈𝐙𝐌𝐀>>/亗', true],
 ];
 
-global.suittag = ['201025663589'];
-global.prems = ['201025663589'];
+global.suittag = ['201556562949'];
+global.prems = ['201556562949'];
 
-global.packname = '☾︎ 𝙈𝙀𝙂𝙊𝘽𝙊𝙏-𝙈𝘿 ☽︎';
-global.author = '✩𝙼𝙴𝙶𝙾-𝙱𝙾𝚃☆';
-global.wm = '✯𝐌𝐄𝐆𝐎𝐁𝐎𝐓-𝐌𝐃✯';
-global.titulowm = '☾︎ 𝙈𝙀𝙂𝙊𝘽𝙊𝙏-𝙈𝘿 ☽︎';
-global.titulowm2 = `☾︎ 𝙈𝙀𝙂𝙊𝘽𝙊𝙏-𝙈𝘿 ☽︎`
-global.igfg = '☾︎ 𝙈𝙀𝙂𝙊𝘽𝙊𝙏-𝙈𝘿 ☽︎';
-global.wait = '*[ ⏳ ] انتظر جاي التحميل تابع صاحب البوت*...\n\n*atom.bio/mego51_51*';
+global.packname = '☾︎ 𝐊𝐀𝐑𝐈𝐙𝐌𝐀-𝙈𝘿 ☽︎';
+global.author = '✩𝚔𝚊𝚛𝚒𝚣𝚖𝚊-𝙱𝙾𝚃☆';
+global.wm = '✯𝐊𝐀𝐑𝐈𝐙𝐌𝐀-𝐌𝐃✯';
+global.titulowm = '☾︎ 𝐊𝐀𝐑𝐈𝐙𝐌𝐀-𝙈𝘿 ☽︎';
+global.titulowm2 = `☾︎ 𝐊𝐀𝐑𝐈𝐙𝐌𝐀-𝙈𝘿 ☽︎`
+global.igfg = '☾︎ 𝐊𝐀𝐑𝐈𝐙𝐌𝐀-𝙈𝘿 ☽︎';
+global.wait = '*[ ⏳ ] انتظر جاي التحميل تابع صاحب البوت*...\n\n*https://www.instagram.com/kv_rzm?igsh=cWhvYnZiZGIwbmJk*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
 global.imagen2 = fs.readFileSync('./src/nuevobot.jpg');
@@ -42,15 +42,15 @@ global.mes = d.toLocaleDateString('ar', {month: 'long'});
 global.año = d.toLocaleDateString('ar', {year: 'numeric'});
 global.tiempo = d.toLocaleString('ar-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\n☾︎ 𝙈𝙀𝙂𝙊𝘽𝙊𝙏-𝙈𝘿 ☽︎`;
-global.gt = '☾︎ 𝙈𝙀𝙂𝙊𝘽𝙊𝙏-𝙈𝘿 ☽︎';
-global.mysticbot = '☾︎ 𝙈𝙀𝙂𝙊𝘽𝙊𝙏-𝙈𝘿 ☽︎';
-global.md = 'atom.bio/mego51_51';
-global.mysticbot = 'atom.bio/mego51_51';
-global.waitt = '*[ ⏳ ] انتظر جاي التحميل تابع صاحب البوت*...\n\n*atom.bio/mego51_51*';
-global.waittt = '*[ ⏳ ] انتظر جاي التحميل تابع صاحب البوت*...\n\n*atom.bio/mego51_51*';
-global.waitttt = '*[ ⏳ ] انتظر جاي التحميل تابع صاحب البوت*...\n\n*atom.bio/mego51_51*';
-global.nomorown = '201025663589';
+global.wm2 = `${dia} ${fecha}\n☾︎ 𝐊𝐀𝐑𝐈𝐙𝐌𝐀-𝙈𝘿 ☽︎`;
+global.gt = '☾︎ 𝐊𝐀𝐑𝐈𝐙𝐌𝐀-𝙈𝘿 ☽︎';
+global.mysticbot = '☾︎ 𝐊𝐀𝐑𝐈𝐙𝐌𝐀-𝙈𝘿 ☽︎';
+global.md = 'https://wa.me/message/VT4YOFYTM2NKO1';
+global.mysticbot = 'https://wa.me/message/VT4YOFYTM2NKO1';
+global.waitt = '*[ ⏳ ] انتظر جاي التحميل تابع صاحب البوت*...\n\n*https://www.instagram.com/kv_rzm?igsh=cWhvYnZiZGIwbmJk*';
+global.waittt = '*[ ⏳ ] انتظر جاي التحميل تابع صاحب البوت*...\n\n*https://www.instagram.com/kv_rzm?igsh=cWhvYnZiZGIwbmJk*';
+global.waitttt = '*[ ⏳ ] انتظر جاي التحميل تابع صاحب البوت*...\n\n*https://www.instagram.com/kv_rzm?igsh=cWhvYnZiZGIwbmJk*';
+global.nomorown = '201556562949';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
